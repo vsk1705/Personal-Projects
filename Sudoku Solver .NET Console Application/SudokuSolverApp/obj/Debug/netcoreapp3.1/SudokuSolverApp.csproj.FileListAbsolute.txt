@@ -1,0 +1,12 @@
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\bin\Debug\netcoreapp3.1\SudokuSolverApp.exe
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\bin\Debug\netcoreapp3.1\SudokuSolverApp.deps.json
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\bin\Debug\netcoreapp3.1\SudokuSolverApp.runtimeconfig.json
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\bin\Debug\netcoreapp3.1\SudokuSolverApp.runtimeconfig.dev.json
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\bin\Debug\netcoreapp3.1\SudokuSolverApp.dll
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\bin\Debug\netcoreapp3.1\SudokuSolverApp.pdb
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\obj\Debug\netcoreapp3.1\SudokuSolverApp.AssemblyInfoInputs.cache
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\obj\Debug\netcoreapp3.1\SudokuSolverApp.AssemblyInfo.cs
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\obj\Debug\netcoreapp3.1\SudokuSolverApp.csproj.CoreCompileInputs.cache
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\obj\Debug\netcoreapp3.1\SudokuSolverApp.dll
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\obj\Debug\netcoreapp3.1\SudokuSolverApp.pdb
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp\obj\Debug\netcoreapp3.1\SudokuSolverApp.genruntimeconfig.cache

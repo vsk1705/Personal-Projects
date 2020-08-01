@@ -1,0 +1,4 @@
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp.Test\obj\Debug\netcoreapp3.1\SudokuSolverApp.Test.csprojAssemblyReference.cache
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp.Test\obj\Debug\netcoreapp3.1\SudokuSolverApp.Test.AssemblyInfoInputs.cache
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp.Test\obj\Debug\netcoreapp3.1\SudokuSolverApp.Test.AssemblyInfo.cs
+C:\Users\kvs17\source\repos\SudokuSolverApp\SudokuSolverApp.Test\obj\Debug\netcoreapp3.1\SudokuSolverApp.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web Scraper", "Web Scraper\Web Scraper.csproj", "{C6CA65B4-8949-4AC8-8D5A-BA7BB0183A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraper.Unit.Test", "WebScraper.Unit.Test\WebScraper.Unit.Test.csproj", "{E9077870-DEAE-4CFA-AFDE-72F9BD4B2ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CA65B4-8949-4AC8-8D5A-BA7BB0183A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CA65B4-8949-4AC8-8D5A-BA7BB0183A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CA65B4-8949-4AC8-8D5A-BA7BB0183A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CA65B4-8949-4AC8-8D5A-BA7BB0183A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9077870-DEAE-4CFA-AFDE-72F9BD4B2ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9077870-DEAE-4CFA-AFDE-72F9BD4B2ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9077870-DEAE-4CFA-AFDE-72F9BD4B2ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9077870-DEAE-4CFA-AFDE-72F9BD4B2ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387F3FE6-5B2E-4510-9639-EC26FCA01582}
+	EndGlobalSection
+EndGlobal
